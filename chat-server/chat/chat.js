@@ -131,4 +131,3 @@ document.addEventListener("DOMContentLoaded", function () {
       emojiPickerContainer.style.display = emojiPickerContainer.style.display === 'none' ? 'block' : 'none';
   });
 });
-
